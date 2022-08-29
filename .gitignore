@@ -1,5 +1,5 @@
 node_modules/
 .env
-*.json
+near*.json
 *.csv
 test.js

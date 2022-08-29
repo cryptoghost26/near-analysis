@@ -1,0 +1,19 @@
+{
+  "name": "near-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bignumber.js": "^9.1.0",
+    "csv2json": "^2.0.2",
+    "dotenv": "^16.0.1",
+    "json2csv": "^5.0.7",
+    "near-api-js": "^0.45.1"
+  }
+}
